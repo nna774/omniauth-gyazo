@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.authors = ["Kugayama Nana"]
   spec.email = ["nna@nna774.net"]
 
-  spec.summary = "TODO: Write a short summary, because RubyGems requires one."
-  spec.description = "TODO: Write a longer description or delete this line."
+  spec.summary = "OmniAuth strategy for Gyazo"
+  spec.description = spec.summary
   spec.homepage = "https://github.com/nna774/omniauth-gyazo"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 3.1.0"
