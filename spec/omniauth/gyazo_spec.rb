@@ -1,8 +1,8 @@
 # frozen_string_literal: true
 
-RSpec.describe Omniauth::Gyazo do
+RSpec.describe OmniAuth::Gyazo do
   it "has a version number" do
-    expect(Omniauth::Gyazo::VERSION).not_to be nil
+    expect(OmniAuth::Gyazo::VERSION).not_to be nil
   end
 
   it "does something useful" do
