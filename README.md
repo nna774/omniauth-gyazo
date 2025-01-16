@@ -1,6 +1,6 @@
 # Omniauth::Gyazo
 
-This is the unofficial OmniAuth strategy for authenticating to Instagram. To use it, you'll need to sign up for an OAuth2 Application ID and Secret on [Gyazo API](https://gyazo.com/api)
+This is the unofficial OmniAuth strategy for authenticating to Gyazo. To use it, you'll need to sign up for an OAuth2 Application ID and Secret on [Gyazo API](https://gyazo.com/api)
 
 ## Usage
 
